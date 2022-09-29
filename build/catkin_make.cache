@@ -1,0 +1,2 @@
+reuleaux-noetic/base_placement_plugin:reuleaux-noetic/map_creator:reuleaux-noetic/workspace_visualization
+-DCATKIN_DEVEL_PREFIX=/home/student/workspaces/ws_kw/devel -DCMAKE_INSTALL_PREFIX=/home/student/workspaces/ws_kw/install -G Unix Makefiles
